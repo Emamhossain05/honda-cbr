@@ -1,0 +1,37 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+.bg-header{
+    background: #234652;
+}
+.img-width{
+    width: 288px;
+}
+.gray{
+    filter: grayscale(100%);
+}
+
+.cbr{
+    color: #EC7154;
+}
+
+.hr-style{
+    /* border: 8px solid #EC7154; */
+    /* height: 5px; */
+    opacity: 1;
+    margin: 3px auto;
+    width: 80px;
+}
+
+.bg-footer{
+    background: #0B0D16;
+
+}
+.img-badge{
+    width: 124px;
+}
+.c-link{
+    color: aliceblue;
+    text-transform: capitalize;
+}
