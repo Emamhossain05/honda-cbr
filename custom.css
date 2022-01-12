@@ -1,5 +1,6 @@
 body{
     font-family: 'Poppins', sans-serif;
+    width: 100% !important;
 }
 
 .bg-header{
@@ -34,4 +35,30 @@ body{
 .c-link{
     color: aliceblue;
     text-transform: capitalize;
+}
+
+.btn-cbr{
+    text-decoration: none;
+    padding: 10px 26px;
+    background: #EC7154;
+    color: white;
+    border-radius: 5px;
+}
+.btn-cbr:hover {
+    color: white;
+    background: linear-gradient(#EC7154,#fa2e00);
+    
+}
+.btn-cbr-out{
+    text-decoration: none;
+    padding: 10px 26px;
+    border:1px solid #EC7154;
+    color: #EC7154;
+    border-radius: 5px;
+}
+.btn-cbr-out:hover {
+    color: white;
+    background: linear-gradient(#EC7154,#fa2e00);
+    
+    
 }
